@@ -1,4 +1,4 @@
-![Screenshot 2023-11-19 204456](https://github.com/DP-Tabhita-041/PW_UTS_221401041/assets/114707409/15aa1a9d-5136-4a84-9989-c0aaa75c1588)![Screenshot 2023-11-19 204442](https://github.com/DP-Tabhita-041/PW_UTS_221401041/assets/114707409/59e6456b-8d91-49bb-a1b6-8a9373df4dfd)# PW_UTS_221401041
+# PW_UTS_221401041
 
 Muda Sehat's site is designed so that many people are aware of health problems and helps change bad eating behavior for the better with a feature that recommends healthy foods that are still delicious.
 
